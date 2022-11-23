@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Films">
+        <item>Пила</item>
+        <item>Проклятье монахини</item>
+        <item>Заклятье</item>
+        <item>Пятница 13</item>
+        <item>Хэллоин</item>
+        <item>Кукла</item>
+        <item>Проклятье Анабель</item>
+        <item>Проклятье Плачущей</item>
+        <item>Пункт назначения</item>
+    </string-array>
+</resources>

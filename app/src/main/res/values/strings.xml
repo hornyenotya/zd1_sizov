@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">zd1_sizov</string>
+    <string name="autorize">Авторизация</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="vxod">Вход</string>
+</resources>
